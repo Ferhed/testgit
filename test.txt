@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 Boujour test !
 
 autre
 
 test
 fgfdgd
+=======
+aaaa
+>>>>>>> testbranch
