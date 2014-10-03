@@ -1,10 +1,10 @@
-<<<<<<< HEAD
-Boujour test !
+ceci est un test
 
-autre
+ajout d'une ligne
 
-test
-fgfdgd
-=======
-aaaa
->>>>>>> testbranch
+encore une ligne
+
+lolol
+
+je fais le test de la nouvelle feature
+
